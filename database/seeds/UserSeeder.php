@@ -21,7 +21,7 @@ class UserSeeder extends Seeder
                 'role_id' => 1,
                 'status_id' => 1,
                 'email_verified_at' => Carbon::now(),
-                'password' => Hash::make('32tgaF&YXVoEi*yn*F7vh^A4'),
+                'password' => Hash::make('Bu*!2$NSenD3#vXVLc*VrbfS'),
             ],
             [
                 'name' => 'Gelo',
@@ -29,7 +29,7 @@ class UserSeeder extends Seeder
                 'role_id' => 1,
                 'status_id' => 1,
                 'email_verified_at' => Carbon::now(),
-                'password' => Hash::make('GD$Qea7YfWHlz1rI90m4WGnL'),
+                'password' => Hash::make('mWcGZ$yUuBZpzG^LJznQ9rN9'),
             ],
             [
                 'name' => 'Jeff',
@@ -37,7 +37,7 @@ class UserSeeder extends Seeder
                 'role_id' => 1,
                 'status_id' => 1,
                 'email_verified_at' => Carbon::now(),
-                'password' => Hash::make('#f4xbbs^5pEt&J^c%pNxHmz#'),
+                'password' => Hash::make('&d3H^sgF5f4QUBE%*djNJZx9'),
             ]
         ];
         foreach ($users as $key => $user) {
